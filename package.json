@@ -7,7 +7,10 @@
   "engines": {
     "vscode": "^1.76.0"
   },
-  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sniffin3083/amethyst-dreams"
+  },
   "categories": [
     "Themes"
   ],
