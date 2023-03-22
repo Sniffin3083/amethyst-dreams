@@ -1,16 +1,7 @@
-# amethyst-dreams README
+# Amethyst Dreams
 
-## Working with Markdown
+## What is it
+Amethyst Dreams is a VSCode color theme that I developed. It used purple and pink undertones to make everything really pop. I hope you like it!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## How to Download and Use?
+This is published right on the VSCode marketplace so by simply searching up "Amethyst Dreams" in the marketplace it should be available for you to download and use!
