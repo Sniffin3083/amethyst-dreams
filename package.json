@@ -7,6 +7,7 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  
   "categories": [
     "Themes"
   ],
@@ -15,7 +16,7 @@
       {
         "label": "Amethyst Dreams",
         "uiTheme": "vs-dark",
-        "path": "./themes/Amethyst Dreams-color-theme.json"
+        "path": "./themes/amethyst-dreams-color-theme.json"
       }
     ]
   }
