@@ -1,0 +1,22 @@
+{
+  "name": "amethyst-dreams",
+  "displayName": "Amethyst Dreams",
+  "description": "Take a trip through the Amethyst Dreams and experience the beauty of a sunset in the desert.",
+  "publisher": "Sniffin",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amethyst Dreams",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amethyst Dreams-color-theme.json"
+      }
+    ]
+  }
+}
