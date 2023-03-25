@@ -3,7 +3,7 @@
   "displayName": "Amethyst Dreams",
   "description": "Take a trip through the Amethyst Dreams and experience the beauty of a sunset in the desert.",
   "publisher": "Sniffin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },
