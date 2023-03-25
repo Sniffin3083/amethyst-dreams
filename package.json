@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.76.0"
   },
-  "icon": "./icon/icon.png",
+  "icon": "./icon/icon.jpg",
   "author": {
     "name": "Griffin Thaxter",
     "email": "thaxterg12@gmail.com",
