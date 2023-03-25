@@ -7,6 +7,12 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "icon": "./icon/icon.png",
+  "author": {
+    "name": "Griffin Thaxter",
+    "email": "thaxterg12@gmail.com",
+    "url": "https://www.linkedin.com/in/griffinthaxter/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Sniffin3083/amethyst-dreams"
