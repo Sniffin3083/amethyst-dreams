@@ -12,3 +12,9 @@ image.png
 image.png
 
 image.png
+
+### Credits
+Design by Griffin Thaxter
+
+Icon by Daniel Olah
+https://unsplash.com/photos/ON0jlgkd8R0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
