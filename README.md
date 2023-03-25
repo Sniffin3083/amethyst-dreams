@@ -6,7 +6,7 @@ Amethyst Dreams is a VSCode color theme that I developed. It used purple and pin
 ## How to Download and Use?
 This is published right on the VSCode marketplace so by simply searching up "Amethyst Dreams" in the marketplace it should be available for you to download and use!
 
-Or by going to this link you can download it from the marketplace directly
+Or by going to this link you can download it from the marketplace directly:
 https://marketplace.visualstudio.com/items?itemName=Sniffin.amethyst-dreams&ssr=false#overview 
 
 ## Screenshots!
